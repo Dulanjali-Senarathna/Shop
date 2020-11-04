@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bYZw4ypHODAXAkHbApv8tWU8asDhyHv94PK4Zkt/2ANcwXH7pAY86CD8lif2L/Ec/l61HzVYSBybdrv9h0sRuQ==",
+  "dgSpecHash": "XFA+IY+ID8c1Da/eGFS6fjVimcXbIsvxHNtnZY8f9uc//jrk/qvp3m3kjZBqsJ4myU3lEW6pp63q9jE5zeUJ2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dulanjali\\source\\repos\\Shop\\Shop.UI\\Shop.UI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dulanjali\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Dulanjali\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Dulanjali\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
     "C:\\Users\\Dulanjali\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",

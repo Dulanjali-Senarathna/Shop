@@ -1,0 +1,4 @@
+C:\Users\Dulanjali\source\repos\Shop\Shop.Database\bin\Debug\netcoreapp2.1\Shop.Database.deps.json
+C:\Users\Dulanjali\source\repos\Shop\Shop.Database\bin\Debug\netcoreapp2.1\Shop.Database.dll
+C:\Users\Dulanjali\source\repos\Shop\Shop.Database\obj\Debug\netcoreapp2.1\Shop.Database.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\source\repos\Shop\Shop.Database\obj\Debug\netcoreapp2.1\Shop.Database.AssemblyInfo.cs
