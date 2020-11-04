@@ -4340,6 +4340,52 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Shop.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.0",
+          "Microsoft.EntityFrameworkCore": "2.1.0",
+          "Shop.Database": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Application.dll": {}
+        }
+      },
+      "Shop.Database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.0",
+          "Microsoft.EntityFrameworkCore": "2.1.0",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.0",
+          "Shop.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Database.dll": {}
+        }
+      },
+      "Shop.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.1.0",
+          "Microsoft.EntityFrameworkCore": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Domain.dll": {}
+        }
       }
     }
   },
@@ -11934,6 +11980,21 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Shop.Application/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Application/Shop.Application.csproj",
+      "msbuildProject": "../Shop.Application/Shop.Application.csproj"
+    },
+    "Shop.Database/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Database/Shop.Database.csproj",
+      "msbuildProject": "../Shop.Database/Shop.Database.csproj"
+    },
+    "Shop.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Domain/Shop.Domain.csproj",
+      "msbuildProject": "../Shop.Domain/Shop.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11942,7 +12003,8 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.EntityFrameworkCore >= 2.1.1",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Shop.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11975,7 +12037,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dulanjali\\source\\repos\\Shop\\Shop.Application\\Shop.Application.csproj": {
+              "projectPath": "C:\\Users\\Dulanjali\\source\\repos\\Shop\\Shop.Application\\Shop.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

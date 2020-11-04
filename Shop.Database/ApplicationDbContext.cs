@@ -8,11 +8,11 @@ using Shop.Domain.Models;
 
 namespace Shop.Database
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext 
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             :base(options) { }
 
-        public DbSet<Product> MyProperty { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }
