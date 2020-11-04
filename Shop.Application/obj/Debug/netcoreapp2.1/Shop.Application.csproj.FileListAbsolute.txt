@@ -1,4 +1,6 @@
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Shop.Application.deps.json
+C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Shop.Application.runtimeconfig.json
+C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Shop.Application.runtimeconfig.dev.json
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Shop.Application.dll
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Shop.Application.pdb
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Shop.Database.dll
@@ -8,7 +10,8 @@ C:\Users\Dulanjali\source\repos\Shop\Shop.Application\bin\Debug\netcoreapp2.1\Sh
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.csprojAssemblyReference.cache
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.AssemblyInfoInputs.cache
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.AssemblyInfo.cs
+C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.csproj.CoreCompileInputs.cache
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.csproj.CopyComplete
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.dll
 C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.pdb
-C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\source\repos\Shop\Shop.Application\obj\Debug\netcoreapp2.1\Shop.Application.genruntimeconfig.cache
